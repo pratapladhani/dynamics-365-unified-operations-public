@@ -35,7 +35,7 @@ This topic provides steps detailing how to configure and consume a business even
 
 This topic shows how to perform the following tasks:
 
--   Create a new Power Automate.
+-   Create a new flow in Power Automate.
 -   Trigger a business event.
 
 ## Create a new Power Automate
